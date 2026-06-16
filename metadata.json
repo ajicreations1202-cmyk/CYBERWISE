@@ -1,0 +1,6 @@
+{
+  "name": "CyberWise Skillversity",
+  "description": "Premium educational website for the leading digital marketing and multimedia institute in Malappuram, Kerala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
